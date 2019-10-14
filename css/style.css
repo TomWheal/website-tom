@@ -10,7 +10,7 @@
 
 	body, input, select, textarea {
 		color: white;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
@@ -161,6 +161,7 @@
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+			font-style: bold;
 		}
 
 		#header p {

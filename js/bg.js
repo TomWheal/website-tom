@@ -7,8 +7,8 @@ var delay=1000;
 document.addEventListener('DOMContentLoaded', function () {
   setTimeout(function() {
     particleground(document.getElementById('bg'), {
-    dotColor: '#a0a0a0',
-    lineColor: '#848484'
+    dotColor: '#249903',
+    lineColor: '#556e4e'
   });
   var intro = document.getElementById('footer');
   intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
